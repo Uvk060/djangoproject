@@ -1,0 +1,60 @@
+h1 {
+  font-family: sans-serif;
+  font-size: 20px;
+  text-align: left;
+  color: #e7f9db;
+  margin: 2rem 4rem 0 3rem;
+  padding: 1rem 0 1.5rem 2rem;
+  border-radius: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-transform: uppercase;
+  background-color: #73a28e;
+  /* For browsers that do not support gradients */
+  /* gradients */
+  background-image: linear-gradient(
+    to right,
+    #f5a8a8,
+    #eac47f,
+    #e7e7b9,
+    #93c093,
+    #9b9bed,
+    #975ebf,
+    #f5baf5
+  );
+}
+ul {
+  font-family: sans-serif;
+  font-size: 20px;
+  text-align: left;
+  color: bisque;
+  margin: 1rem 4rem 0 3rem;
+  padding: 1rem 0 1.2rem 2rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-transform: uppercase;
+  background: #a27373;
+  /* gradients */
+  background-image: linear-gradient(
+    to right,
+    #9b9bed,
+    #975ebf,
+    #f5baf5,
+    #f6f1ba,
+    #a5e6e5
+  );
+  border-radius: 12px;
+}
+
+input {
+  height: 2.5rem;
+  width: 15rem;
+  font-size: 1rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #565656;
+  background-color: #93c093;
+  margin: 1rem 2rem 0 3rem;
+  padding: 0.5rem 0 0.5rem 0.2rem;
+  border: #e7e7b9 1px;
+  border-radius: 12px;
+  box-shadow: #bcbcf0 4px 2px 1px;
+  background-image: linear-gradient(to right, #9b9bed, #f5baf5, #f6f1ba);
+}
