@@ -44,6 +44,10 @@ ul {
   border-radius: 12px;
 }
 
+li {
+  margin: 1rem;
+}
+
 input {
   height: 2.5rem;
   width: 15rem;
@@ -57,4 +61,9 @@ input {
   border-radius: 12px;
   box-shadow: #bcbcf0 4px 2px 1px;
   background-image: linear-gradient(to right, #9b9bed, #f5baf5, #f6f1ba);
+}
+
+a {
+  color: #f5baf5;
+  margin: 2rem;
 }
